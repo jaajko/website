@@ -1,0 +1,14 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+  background: #bdbdbd;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-heught: 24px;
+  padding: 50px;
+}
+
+h2 {
+  font-size: 30px;
+  line-height: 45px;
+}
