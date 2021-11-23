@@ -19,3 +19,9 @@ h6 {
 p {
   font-family: 'Roboto', sans-serif;
 }
+a {
+  font-family: 'Roboto', sans-serif;
+}
+a:link {
+  font-family: 'Roboto', sans-serif;
+}
