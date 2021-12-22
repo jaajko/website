@@ -3,5 +3,4 @@
 ![GitHub issues](https://img.shields.io/github/issues/jaajko/website)
 ![GitHub last commit](https://img.shields.io/github/last-commit/jaajko/website)
 <br>
-website v2 <br>
 https://jaajko.xyz
