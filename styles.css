@@ -28,3 +28,6 @@ a:link {
 img {
     pointer-events: none;
 }
+img {
+  opacity: 1;
+}
