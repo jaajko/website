@@ -12,9 +12,23 @@
 <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
 <script>
   function addDarkmodeWidget() {
-    new Darkmode().showWidget();
+    const darkmode = new Darkmode(options);
+    darkmode.showWidget();
   }
   window.addEventListener('load', addDarkmodeWidget);
+const options = {
+  bottom: '32px',
+  right: '32px',
+  left: 'unset',
+  time: '0.5s',
+  mixColor: '#fff',
+  backgroundColor: '#fff',
+  buttonColorDark: '#100f2c',
+  buttonColorLight: '#fff',
+  saveInCookies: false,
+  label: '🌓',
+  autoMatchOsTheme: true
+}
 </script>
 </head>
 <body>
