@@ -28,6 +28,9 @@ a:link {
 a:hover {
   color: red;
 }
+ul {
+  font-family: 'Lato', sans-serif;
+}
 img {
     pointer-events: none;
 }
