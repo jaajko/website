@@ -25,11 +25,11 @@ a {
 a:link {
   font-family: 'Lato', sans-serif;
 }
-a:hover {
-  color: red;
-}
 ul {
   font-family: 'Lato', sans-serif;
+}
+a:hover {
+  color: red;
 }
 img {
     pointer-events: none;
