@@ -1,5 +1,2 @@
-User-agent: *
-Disallow: /pages
 User-agent: Googlebot-Image
 Disallow: /
-Sitemap: https://jaajko.xyz/assets/sitemap.xml
