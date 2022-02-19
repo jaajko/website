@@ -1,36 +1,74 @@
+/* Base Styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* NOTE
+html is set to 62.5% so that all the REM measurements throughout Skeleton
+are based on 10px sizing. So basically 1.5rem = 15px */
+
+html {
+  font-size: 100%;
+  color-scheme: light dark;
+}
+body {
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 400;
+  font-family: "Lato", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+}
+
+/* Typography
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 h1 {
-  font-family: 'Roboto', sans-serif;
+  margin-top: 0;
+  margin-bottom: 16px;
+  font-weight: 800;
 }
-h2 {
-  font-family: 'Roboto', sans-serif;
+h1 {
+  font-size: 24px;
+  line-height: 64px;
+  letter-spacing: 0;
 }
-h3 {
-  font-family: 'Roboto', sans-serif;
+
+/* Larger than phablet */
+@media (min-width: 550px) {
+  h1 {
+    font-size: 48px;
+    line-height: 96px;
+  }
 }
-h4 {
-  font-family: 'Roboto', sans-serif;
-}
-h5 {
-  font-family: 'Roboto', sans-serif;
-}
-h6 {
-  font-family: 'Roboto', sans-serif;
-}
+
 p {
-  font-family: 'Lato', sans-serif;
+  margin-top: 0;
 }
+
+/* Links
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  font-family: 'Lato', sans-serif;
-}
-a:link {
-  font-family: 'Lato', sans-serif;
+  color: #0085ff;
 }
 a:hover {
-  color: rgb(255, 0, 0);
+  color: #0085ff;
 }
-ul {
-  font-family: 'Lato', sans-serif;
+
+/* Code
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+code {
+  padding: 0.2rem 0.5rem;
+  margin: 0 0.2rem;
+  font-size: 90%;
+  white-space: nowrap;
+  background: #f1f1f1;
+  border: 1px solid #e1e1e1;
+  border-radius: 4px;
 }
+pre > code {
+  display: block;
+  padding: 1rem 1.5rem;
+  white-space: pre;
+}
+
+/* Misc
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 img {
     pointer-events: none;
 }
