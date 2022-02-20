@@ -24,15 +24,6 @@ h1 {
   line-height: 64px;
   letter-spacing: 0;
 }
-
-/* Larger than phablet */
-@media (min-width: 550px) {
-  h1 {
-    font-size: 48px;
-    line-height: 96px;
-  }
-}
-
 p {
   margin-top: 0;
 }
