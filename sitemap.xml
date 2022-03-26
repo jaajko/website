@@ -15,11 +15,4 @@
                hreflang="fi-fi"
                href="https://fi.jaajko.eu"/>
   </url>
-  <url>
-    <loc>https://jp.jaajko.eu</loc>
-    <xhtml:link
-               rel="alternate"
-               hreflang="ja-jp"
-               href="https://jp.jaajko.eu"/>
-  </url>
 </urlset>
