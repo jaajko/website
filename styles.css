@@ -29,7 +29,7 @@ a:hover {
   color: #5353ec;
 }
 pre {
-font-family: Lato;
+font-family: Consolas,monospace
 }
 img {
     pointer-events: none;
