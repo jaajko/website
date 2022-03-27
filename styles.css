@@ -28,10 +28,6 @@ a {
 a:hover {
   color: #5353ec;
 }
-pre {
-  font-family: "Lato", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial,
-    sans-serif;
-}
 img {
     pointer-events: none;
 }
