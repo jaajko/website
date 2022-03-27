@@ -28,9 +28,6 @@ a {
 a:hover {
   color: #5353ec;
 }
-pre {
-font-family: Lato;
-}
 img {
     pointer-events: none;
 }
