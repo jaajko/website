@@ -1,2 +1,5 @@
 https://jaajko-in0.pages.dev/*
   X-Robots-Tag: noindex
+https://jaajko.eu/*
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin
