@@ -1,5 +1,8 @@
 https://jaajko-in0.pages.dev/*
   X-Robots-Tag: noindex
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin
+  Cache-Control: no-cache
 https://jaajko.eu/*
   X-Frame-Options: DENY
   Referrer-Policy: strict-origin
