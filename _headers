@@ -3,3 +3,4 @@ https://jaajko-in0.pages.dev/*
 https://jaajko.eu/*
   X-Frame-Options: DENY
   Referrer-Policy: strict-origin
+  Cache-Control: no-cache
