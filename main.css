@@ -1,0 +1,46 @@
+html {
+  font-size: 100%;
+  background-color: #121212;
+}
+body {
+  font-family: "Lato", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+  text-align: center;
+}
+p {
+  font-size: 12pt;
+  margin: 2pt;
+  padding: 0pt;
+  font-weight: 600;
+}
+a {
+  color: #5353ec;
+  font-weight: 700;
+}
+a:hover {
+	color: #9eabaf;
+}
+header ul {
+  display: inline;
+  width: 100%;
+  font-size: 20pt;
+  margin: 0;
+  padding: 0;
+}
+header li {
+  color: inherit;
+  display: inline-block;
+  padding: 8px 16px;
+}
+header {
+  width: 100%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  color: inherit;
+  z-index: 10;
+  top: 50%;
+}
+img {
+  pointer-events: none;
+}
