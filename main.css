@@ -2,8 +2,7 @@ html {
   font-size: 100%;
 }
 body {
-  font-family: "Lato", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial,
-    sans-serif;
+  font-family: 'Lato', sans-serif;
   text-align: center;
 }
 p {
