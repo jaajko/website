@@ -7,14 +7,6 @@ Fork of an original work Animated background css only squares (https://codepen.i
 }
 
 
-.context {
-    width: 100%;
-    position: absolute;
-    top:50vh;
-    
-}
-
-
 .area{
     background: #121212;   
     width: 100%;
