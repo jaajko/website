@@ -273,7 +273,7 @@ details[open] summary::after {
 details::before {
   content: "← Click This Button";
   color: var(--secoColor);
-  position: fixed;
+  position: relative;
   margin-left: 80px;
   padding: 10px 10px;
   opacity: 0.4;
