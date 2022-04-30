@@ -210,7 +210,7 @@ summary {
 }
 summary::before,
 summary::after {
-  position: static;
+  position: relative;
   top: 0;
   left: 0;
 }
