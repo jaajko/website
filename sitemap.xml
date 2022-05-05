@@ -8,11 +8,4 @@
                hreflang="en"
                href="https://jaajko.eu"/>
   </url>
-  <url>
-    <loc>https://fi.jaajko.eu</loc>
-      <xhtml:link
-               rel="alternate"
-               hreflang="fi-fi"
-               href="https://fi.jaajko.eu"/>
-  </url>
 </urlset>
