@@ -7,15 +7,10 @@ body {
   text-align: center;
 }
 p {
-  font-size: 12pt;
-  margin: 2pt;
-  padding: 0pt;
-  font-weight: 300;
   color: #ffffff
 }
 a {
   color: #5353ec;
-  font-weight: 300;
   text-decoration: none;
 }
 a:hover {
@@ -24,7 +19,6 @@ a:hover {
 header ul {
   display: inline;
   width: 100%;
-  font-size: 20pt;
   margin: 0;
   padding: 0;
 }
