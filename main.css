@@ -45,7 +45,6 @@ header {
 }
 .footer {
   position: fixed;
-  font-size: 15px !important;
   left: 0;
   bottom: 0;
   width: 100%;
