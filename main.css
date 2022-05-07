@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
 html {
   font-size: 100%;
 }
@@ -7,15 +7,16 @@ body {
   text-align: center;
 }
 p {
-  font-size: 12pt;
+  font-size: 36px;
   margin: 2pt;
   padding: 0pt;
-  font-weight: 600;
+  font-weight: 300;
   color: #ffffff
 }
 a {
   color: #5353ec;
-  font-weight: 700;
+  font-weight: 300;
+  font-size: 36px;
   text-decoration: none;
 }
 a:hover {
