@@ -7,7 +7,7 @@ body {
   text-align: center;
 }
 p {
-  font-size: 36px;
+  font-size: 20px;
   margin: 2pt;
   padding: 0pt;
   font-weight: 300;
@@ -16,7 +16,7 @@ p {
 a {
   color: #5353ec;
   font-weight: 300;
-  font-size: 36px;
+  font-size: 20px;
   text-decoration: none;
 }
 a:hover {
@@ -25,7 +25,7 @@ a:hover {
 header ul {
   display: inline;
   width: 100%;
-  font-size: 20pt;
+  font-size: 20px;
   margin: 0;
   padding: 0;
 }
