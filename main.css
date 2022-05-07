@@ -3,11 +3,11 @@ html {
   font-size: 100%;
 }
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   text-align: center;
 }
 p {
-  font-size: 20px;
+  font-size: 22px;
   margin: 2pt;
   padding: 0pt;
   font-weight: 300;
@@ -16,7 +16,7 @@ p {
 a {
   color: #5353ec;
   font-weight: 300;
-  font-size: 20px;
+  font-size: 22px;
   text-decoration: none;
 }
 a:hover {
@@ -25,7 +25,7 @@ a:hover {
 header ul {
   display: inline;
   width: 100%;
-  font-size: 20px;
+  font-size: 22px;
   margin: 0;
   padding: 0;
 }
@@ -44,11 +44,12 @@ header {
   top: 50%;
 }
 .footer {
-position: fixed;
-left: 0;
-bottom: 0;
-width: 100%;
-text-align: center;
+  position: fixed;
+  font-size: 22px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
 }
 img {
   pointer-events: none;
