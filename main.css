@@ -10,12 +10,12 @@ p {
   font-size: 12pt;
   margin: 2pt;
   padding: 0pt;
-  font-weight: 600;
+  font-weight: 300;
   color: #ffffff
 }
 a {
   color: #5353ec;
-  font-weight: 700;
+  font-weight: 400;
   text-decoration: none;
 }
 a:hover {
