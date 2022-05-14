@@ -13,6 +13,9 @@ p {
   font-weight: 300;
   color: #ffffff
 }
+pre {
+  font-family: 'Quicksand', sans-serif;
+}
 a {
   color: #5353ec;
   font-weight: 300;
