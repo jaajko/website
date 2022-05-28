@@ -43,6 +43,10 @@ header {
   z-index: 10;
   top: 50%;
 }
+select {
+    border: 1px solid #ff0000;
+    background-color: transparent;
+}
 img {
   pointer-events: none;
 }
