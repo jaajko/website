@@ -48,6 +48,7 @@ header {
 }
 #div2 {
   z-index: 1;
+  position: absolute;
 }
 img {
   pointer-events: none;
