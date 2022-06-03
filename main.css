@@ -43,13 +43,6 @@ header {
   z-index: 10;
   top: 50%;
 }
-#div1 {
-  z-index: 2;
-}
-#div2 {
-  z-index: 1;
-  position: absolute;
-}
 img {
   pointer-events: none;
 }
