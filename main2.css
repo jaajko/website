@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200&display=swap');
+@import url(https://assets.jaajko.fi/font-awesome/css/font-awesome.min.css);
+
+html {
+  font-size: 100%;
+}
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
+  background: #121212;
+}
+p {
+  font-size: 24px;
+  margin: 2pt;
+  padding: 0pt;
+  font-weight: 200;
+  color: #ffffff
+}
+a {
+  color: #5353ec;
+  font-weight: 200;
+  font-size: 24px;
+  text-decoration: none;
+}
+a:hover {
+  color: #9eabaf;
+}
+#main {
+  width: 100%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  color: inherit;
+  z-index: 10;
+  top: 50%;
+}
+ul {
+    padding:0;
+    list-style: none;
+}
+.footer-social-icons {
+    width: 350px;
+    display:block;
+    margin: 0 auto;
+}
+.social-icon {
+    color: #474747;
+}
+ul.social-icons {
+    margin-top: 10px;
+}
+.social-icons li {
+    vertical-align: top;
+    display: inline;
+    height: 100px;
+}
+.social-icons a {
+    color: #474747;
+    text-decoration: none;
+}
+.fa-twitter {
+    padding:10px 12px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: transparent;
+}
+.fa-twitter:hover {
+    color: #1da1f2;
+}
+.fa-youtube {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: transparent;
+}
+.fa-youtube:hover {
+    color: #ff0000;
+}
+.fa-github {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: transparent;
+}
+.fa-github:hover {
+    color: #ffffff;
+}
+.fa-twitch {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: transparent;
+}
+.fa-twitch:hover {
+    color: #9146ff;
+}
+.fa-envelope {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: transparent;
+}
+.fa-envelope:hover {
+    color: #ffffff;
+}
+img {
+  pointer-events: none;
+}
